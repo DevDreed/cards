@@ -1,0 +1,21 @@
+.content{
+  width: 960px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card{
+  width 20%;
+  float:left;
+  margin: 2%;
+}
+
+textarea{
+  width: 80%;
+  margin: 0 auto;
+  display: block;
+}
+
+#create{
+  margin: 0 auto;
+}
